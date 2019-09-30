@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/sh/qlqphgkuqrtqi0z/AABsvNOjUeSZ0K2JP6LPqufja?dl=0'
+export_file_url = 'z_https://www.dropbox.com/sh/qlqphgkuqrtqi0z/AABsvNOjUeSZ0K2JP6LPqufja?dl=0'
 export_file_name = 'export.pkl'
 
 classes = ['happy', 'sad', 'angry']
