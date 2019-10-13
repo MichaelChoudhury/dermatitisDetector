@@ -11,11 +11,14 @@
 ## ML/DL frameworks used: Fastai computer vision; PyTorch
 
 ## How to use the web app?
-- ### Choose an image of a case of eczema, measles, or melanoma using google or take a photo using a smart phone.
-- ### Save the image to your PC.
-- ### Upload the image to the app.
-- ### Click the 'Analyze' button.
-- ### Read the result.
+- ### Choose an image of a case of eczema, measles, or melanoma using google or take a photo using a smart phone
+- ### Save the image to your PC
+- ### Upload the image to the app
+- ### Click the 'Analyze' button
+- ### Read the result
+
+
+
 
 # https://dermatitisdetector.onrender.com/
 
