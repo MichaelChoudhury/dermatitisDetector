@@ -17,8 +17,7 @@
 - ### Click the 'Analyze' button.
 - ### Read the result.
 
-/x.PNG
-
+![](x.PNG)
 
 # Starter code from: [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
