@@ -17,6 +17,8 @@
 - ### Click the 'Analyze' button.
 - ### Read the result.
 
+# https://dermatitisdetector.onrender.com/
+
 
 
 
