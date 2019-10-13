@@ -1,5 +1,7 @@
 # Midterm Assignment (Build an AI Startup)
 
+# The production deployment of the app: http://https://dermatitisdetector.onrender.com/
+
 ## Team members: 
 ## 1. ainanami2018@gmail.com (Iman Idris)
 ## 2. pursh2002@gmail.com (Dr Purushottam)
@@ -21,4 +23,4 @@ Deployment technique from: [fast.ai](https://github.com/fastai/fastai) models on
 
 The sample app is up at https://fastai-v3.onrender.com
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html
