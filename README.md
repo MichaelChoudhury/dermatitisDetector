@@ -17,6 +17,9 @@
 - ### Click the 'Analyze' button.
 - ### Read the result.
 
+/x.PNG
+
+
 # Starter code from: [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
 Deployment technique from: [fast.ai](https://github.com/fastai/fastai) models on Render
