@@ -24,3 +24,4 @@ Deployment technique from: [fast.ai](https://github.com/fastai/fastai) models on
 The sample app is up at https://fastai-v3.onrender.com
 
 The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html
+
