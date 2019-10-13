@@ -18,12 +18,3 @@
 - ### Read the result.
 
 ![](x.PNG)
-
-# Starter code from: [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
-
-Deployment technique from: [fast.ai](https://github.com/fastai/fastai) models on Render
-
-The sample app is up at https://fastai-v3.onrender.com
-
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html
-
