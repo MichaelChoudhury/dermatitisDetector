@@ -17,6 +17,8 @@
 - ### Click the 'Analyze' button
 - ### Read the result
 
+<br> <br> <br>
+
 # https://dermatitisdetector.onrender.com/
 
 ![ ](x.PNG)
