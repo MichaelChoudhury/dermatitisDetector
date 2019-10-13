@@ -1,6 +1,6 @@
 # Midterm Assignment (Build an AI Startup)
 
-# The production deployment of the app: http://https://dermatitisdetector.onrender.com/
+# The production deployment of the app: https://dermatitisdetector.onrender.com/
 
 ## Team members: 
 ## 1. ainanami2018@gmail.com (Iman Idris)
