@@ -1,3 +1,6 @@
+# Attribution: All code sourced from fastai course 2019.
+
+
 # Final (Team Project - Build a Startup)
 
 ## Midterm project has been converted to an Android app and displayed through an emulator - screenshot below.
@@ -8,7 +11,7 @@
  <br>
  <br>
  
- ## The Android APK file "dermatitisdetector.apk" is included in this repository.
+ ## The Android APK file "dermatitisdetector.apk" will be included in this repository.
  
 
 
