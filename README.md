@@ -10,7 +10,7 @@
  <br>
  <br>
  
- ## The Android APK file "sharetrading1.apk" is included in this repository.
+ ## The Android APK file "dermatitisdetector.apk" is included in this repository.
  
 
 
