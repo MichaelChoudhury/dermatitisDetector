@@ -1,3 +1,5 @@
+# All code below sourced from fastai course 2019
+
 import aiohttp
 import asyncio
 import uvicorn
