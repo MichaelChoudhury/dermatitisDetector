@@ -1,6 +1,6 @@
 # Final (Team Project - Build a Startup)
 
-## Click here for live Android app [https://appetize.io/app/](https://appetize.io/app/nf14vmden5vf877ua3bfg6cttr?device=nexus9&scale=75&orientation=portrait&osVersion=8.1&deviceColor=black) - press 'Tap to Play'
+## Click here for live Android app [https://appetize.io/app/](https://appetize.io/app/p5xbmavqgz8p5waypuddk2xx34?device=nexus9&scale=75&orientation=portrait&osVersion=8.1&deviceColor=black) - press 'Tap to Play'
 
 ## Midterm project has been converted to an Android app and displayed through an emulator - screenshot below.
 
