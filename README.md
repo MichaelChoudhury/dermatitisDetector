@@ -8,9 +8,11 @@
  ![Tux, the Linux mascot](dermatitisdetector_snapshot.PNG)
  
  ## The iOS and Android versions of the app can be accessed at:
- https://appetize.io/app/30xc5a30au77up4fmrj6rv5cy0?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+ ## https://appetize.io/app/30xc5a30au77up4fmrj6rv5cy0?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
  
- Click 'add media' to add images to the device.
+ ## Click 'Tap tO play'
+ ## Click 'Add mmdia' to add images to the device.
+ ## Click 'Upload image'
  
  
  
