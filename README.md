@@ -7,6 +7,11 @@
 
  ![Tux, the Linux mascot](dermatitisdetector_snapshot.PNG)
  
+ ## The iOS and Android versions of the app can be accessed at:https://appetize.io/app/vnf7nmy91x2jyv5twp70bg5q80?device=iphone6splus&scale=75&orientation=portrait&osVersion=11.4
+ 
+ Click 'add media' to add images to the device.
+ 
+ 
  
  <br>
  <br>
